@@ -23,35 +23,35 @@ A modern, responsive digital clock built using **HTML**, **CSS**, and **JavaScri
 ---
 
 ## 📂 Project Structure
-┣ 📄 index.html # HTML structure
-┣ 📄 style.css # Styles and animations
-┣ 📄 script.js # JavaScript for dynamic time
-┗ 📄 README.md # This file
+- ┣ 📄 index.html # HTML structure
+- ┣ 📄 style.css # Styles and animations
+- ┣ 📄 script.js # JavaScript for dynamic time
+- ┗ 📄 README.md # This file
 
 ---
 
 ## 💡 Customization Ideas
-Add 12/24 hour format toggle
-Include AM/PM label
-Show timezone or allow switching between them
-Add a light/dark mode toggle
-Include a countdown timer or alarm feature
+- Add 12/24 hour format toggle
+- Include AM/PM label
+- Show timezone or allow switching between them
+- Add a light/dark mode toggle
+- Include a countdown timer or alarm feature
 
 ---
 
 ## 🛠 Technologies Used
-HTML5
-CSS3 (Flexbox, Media Queries, Animations)
-JavaScript (Date object, setInterval)
+- HTML5
+- CSS3 (Flexbox, Media Queries, Animations)
+- JavaScript (Date object, setInterval)
 
 ---
 
 ## 📱 Responsive Design
 This project adapts to all screen sizes using:
-Relative units (vw, vh, %)
-CSS media queries
-Flexbox layout for centered alignment
-Tested on desktop, tablet, and mobile.
+- Relative units (vw, vh, %)
+- CSS media queries
+- Flexbox layout for centered alignment
+- Tested on desktop, tablet, and mobile.
 
 ---
 
